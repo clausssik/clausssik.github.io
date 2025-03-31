@@ -143,10 +143,10 @@
     </div>
 
     <a class="go">wejdź</a>
-    <div class="discord" onclick="window.open('https://discord.gg/EDg7A8sWqm')">
+    <div class="discord" onclick="window.open('https://instagram.com/clausssik')">
         <div class="inner_grid">
-            <img class="discord_image" src="https://i.imgur.com/eie0S0W.png">
-            <p class="discord_text">Dołącz do naszego discorda</p>
+            <img class="discord_image" src="https://imgur.com/logo-instagram-png-instagram-logo-white-png-371-fvGZoAR">
+            <p class="discord_text">Dołącz do naszego instagrama</p>
         </div>
     </div>
 
